@@ -1,0 +1,31 @@
+# Compiled Java files
+*.class
+
+# Generated build output
+/bin/
+/build/
+/target/
+/out/
+/dist/
+/.gradle/
+
+# Eclipse workspace metadata and local state
+.metadata/
+.recommenders/
+*.launch
+
+# JVM crash reports and logs
+hs_err_pid*
+replay_pid*
+*.log
+
+# Operating system and editor temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Keep source, README, and Eclipse project configuration tracked.
+# .project, .classpath, and .settings/ are intentionally not ignored.
